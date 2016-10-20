@@ -1,11 +1,5 @@
 <?php
 
-/*
- *
- * Distributed under the terms of the license described in COPYING
- * 
- */
-
 class_exists('CApi') or die();
 
 CApi::Inc('common.plugins.change-password');
